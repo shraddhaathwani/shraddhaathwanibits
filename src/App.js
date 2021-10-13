@@ -38,7 +38,7 @@ function App() {
             <h4 style={{ color: "white", padding: "5px" }}>Verification and Validation Engineer</h4>
             <h5 style={{ color: "white", padding: "5px" }}>Medtronic, Hyderabad, INDIA</h5>
             <h6 style={{ color: "white", padding: "5px" }}>Contact Detail: 2020mt93018@wilp.bits.pilani.ac.in</h6>
-            <a style={{ color: "white" }} href="https://github.com/prerna2909/prerna-profile" className="btn btn-github"><i style={{ fontSize: "24px" }} className="fa">&#xf09b;</i> GitHub Link</a>
+            <a style={{ color: "white" }} href="https://github.com/shraddhaathwani/shraddhaathwanibits" className="btn btn-github"><i style={{ fontSize: "24px" }} className="fa">&#xf09b;</i> GitHub Link</a>
           </div>
         </div>
       </div>
